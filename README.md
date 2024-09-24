@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EmreeDevecii
-- 👀 I’m interested in Full Stack development
+- 👀 I’m interested in Back-End development
 - 🌱 I’m currently learning front-end and back-end web development
 - 📫 You can reach me from emredevecii58@gmail.com
 - ➕ Also, I've LinkedIn profile, check if you want :) https://www.linkedin.com/in/emre-deveci-358b8b19b
